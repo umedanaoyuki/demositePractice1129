@@ -77,10 +77,18 @@ li {
     opacity: 0.7;
 }
 
-
-
-
 /*mainvisual*/
+#mainVisual {
+    margin-bottom: 80px;
+}
+
+
+#mainVisual img {
+    width: 100%;
+    max-width: 1920px;
+    height: 600px;
+    object-fit: cover;
+}
 
 /*about*/
 .section-title {
